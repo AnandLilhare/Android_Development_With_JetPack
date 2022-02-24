@@ -1,0 +1,6 @@
+com/anushka/viewmodeldemo2/databinding/ActivityMainBinding.java
+ com.anushka.viewmodeldemo2.databinding.ActivityMainBinding
+com/anushka/viewmodeldemo2/BuildConfig.java
+ com.anushka.viewmodeldemo2.BuildConfig
+com/anushka/viewmodeldemo2/DataBindingTriggerClass.java
+ com.anushka.viewmodeldemo2.DataBindingTriggerClass

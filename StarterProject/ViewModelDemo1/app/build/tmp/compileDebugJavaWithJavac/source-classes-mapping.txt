@@ -1,0 +1,20 @@
+com/anushka/viewmodeldemo1/BuildConfig.java
+ com.anushka.viewmodeldemo1.BuildConfig
+com/anushka/viewmodeldemo1/databinding/ActivityMainBindingImpl.java
+ com.anushka.viewmodeldemo1.databinding.ActivityMainBindingImpl
+com/anushka/viewmodeldemo1/DataBindingTriggerClass.java
+ com.anushka.viewmodeldemo1.DataBindingTriggerClass
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/anushka/viewmodeldemo1/databinding/ActivityMainBinding.java
+ com.anushka.viewmodeldemo1.databinding.ActivityMainBinding
+com/anushka/viewmodeldemo1/DataBinderMapperImpl.java
+ com.anushka.viewmodeldemo1.DataBinderMapperImpl
+ com.anushka.viewmodeldemo1.DataBinderMapperImpl$InnerBrLookup
+ com.anushka.viewmodeldemo1.DataBinderMapperImpl$InnerLayoutIdLookup
+com/anushka/viewmodeldemo1/BR.java
+ com.anushka.viewmodeldemo1.BR
